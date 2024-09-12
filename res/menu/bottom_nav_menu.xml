@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itemInsertFragment"
+        android:icon="@drawable/add"
+        android:title="New Item" />
+    <item
+        android:id="@+id/itemDeleteFragment"
+        android:icon="@drawable/delete"
+        android:title="Delete Item" />
+    <item
+        android:id="@+id/itemListFragment"
+        android:icon="@drawable/list"
+        android:title="Show Items" />
+</menu>
